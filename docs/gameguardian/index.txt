@@ -74,11 +74,11 @@ Dari sekian banyak fitur yang disebutkan masih ada beberapa kelebihan lain yang 
 
 
 *****
-Share
+Isi Dokumentasi Ini
 *****
 
-* Push your code
-* Submit a pull request
+* X8 Speeder
+* Game Guardian
 
 
 **********
