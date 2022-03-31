@@ -1,0 +1,91 @@
+############
+Contributing
+############
+
+Harap baca petunjuk `game guardian`_ **sebelum menginstall** aplikasi ini:
+
+Dalam menjalankan game online, aplikasi ini punya peranan penting karena memiliki fitur yang cukup unggul. Sebagai pemain online, kamu perlu mencoba kehebatan dari aplikasi tersebut dan berikut fitur selengkapnya :
+
+**************
+Memperlambat atau Mempercepat Game
+**************
+
+Sebagaimana dijelaskan di bagian atas, kehadiran dari aplikasi tersebut mampu mempercepat atau memperlambat game. Dengan demikian, kamu bisa menyesuaikan semua itu dengan kemampuan yang dimiliki.
+
+
+Jika kamu memiliki skill yang cepat dalam bermain maka bisa memanfaatkan fitur mempercepat game. Untuk tingkat kecepatannya juga bervariasi mulai dari 10 hingga 125 kali lebih cepat.
+
+
+Jadi ketika kamu menekan tombol (+) maka kecepatannya akan bertambah sesuai nominal yang dipilih. Begitupun jika kamu menekan tombol (-) maka game akan memperlambat dari kondisi normalnya. 
+
+**************
+Lompat Waktu
+**************
+
+Dalam suatu permainan, lompat waktu sangat diperlukan karena kamu bisa bergeser dari level satu ke yang lain. Dengan lompatan tersebut kamu bisa mengetahui strategi apa yang dilakukan lawan.
+
+
+Dengan pengetahuan tersebut tentu kamu bisa menyusun strategi terbaik untuk mengalahkannya. Bahkan pengetahuan itu bisa membuat kamu akan lebih mudah mengalahkan musuh dalam waktu yang singkat. 
+
+**************
+Menyimpan Memori Secara Otomatis
+**************
+
+Kaitannya dengan fitur lompat waktu tentunya kamu melewatkan level tertentu untuk menuju ke bagian selanjutnya. Model seperti ini jika tanpa aplikasi tentu akan ada proses pengulangan dari awal saat bermain game.
+
+
+Namun dengan bantuan aplikasi tersebut, kamu tidak perlu mengulang level tertentu dalam suatu permainan. Jadi aplikasi tersebut akan otomatis menyimpan memori tersebut ketika kamu bermain game.
+
+
+Manfaatnya kamu bisa langsung memainkan game ke level selanjutnya. Dengan demikian proses seperti ini sangat menguntungkan karena kamu tidak perlu bersusah payah mengulanginya lagi. 
+
+**************
+Memiliki Banyak Pilihan Bahasa
+**************
+
+Beberapa gamers terkadang kesulitan dalam masalah bahasa saat menjalankan game tertentu. Umumnya mereka kesulitan dalam menyerap dan memahami bahasa asing saat menjalankan permainan.
+
+
+Untuk itu pada aplikasi ini, kamu disediakan fitur multi bahasa dimana bisa mengubah bahasa asing ke Indonesia. Sehingga kamu bisa memahami berbagai perintah atau petunjuk yang ada di game tertentu.
+
+**************
+Support Android Versi 5.0+
+**************
+
+Umumnya dalam menjalankan aplikasi, sistem Android menggunakan versi terbaru. Namun tidak demikian dengan Game Guardian karena hingga saat ini masih support versi 5.0+.
+
+
+Jadi aplikasi bisa kamu gunakan pada smartphone dengan sistem operasi Android yang lama. Jadi saat akan menjalankan, kamu tidak perlu melakukan update ke versi terbaru dari sistem operasi tersebut. 
+
+**************
+Retas dan modifikasi Gameplay
+**************
+
+Untuk fitur lain yang dimiliki oleh Game Guardian adalah mampu meretas game-game tertentu. Jadi dalam proses meretas ini khusus untuk game yang umumnya baru dirilis dan tidak ditangani oleh developer ahli.
+
+
+Dengan proses seperti ini kamu bisa mengatur dari awal hingga akhir permainan. Jadi kamu dapat mengatur seluruh permainan sesuai keinginan sendiri termasuk mengalah musuh dengan mudah.
+
+
+Tetapi hal yang menjadi catatan adalah jangan mencoba untuk meretas game yang sudah lama seperti Free Fire, Mobile Legend, dll. Kamu tidak akan mampu meretas game tersebut karena ditangani oleh developer ahli di bidangnya.
+
+
+Dari sekian banyak fitur yang disebutkan masih ada beberapa kelebihan lain yang dimiliki aplikasi tersebut. Dengan penjelasan tersebut tentu kamu perlu segera mengunduh aplikasi ini di smartphone.
+
+
+*****
+Share
+*****
+
+* Push your code
+* Submit a pull request
+
+
+**********
+References
+**********
+
+.. target-notes::
+
+.. _`game guardian`: 
+   https://www.sebuahutas.com/2022/04/game-guardian-apk-no-root-official.html
