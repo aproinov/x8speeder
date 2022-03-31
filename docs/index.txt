@@ -50,7 +50,7 @@ Contents
    :maxdepth: 2
 
    style-guide
-   contribute/index
+   gameguardian/index
 
 
 ******************
