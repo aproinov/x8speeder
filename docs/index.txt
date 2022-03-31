@@ -9,9 +9,11 @@ Kamu suka bermain game High Domino Island? Jika iya, kamu pasti paham dong bahwa
 Bagi sebagian player, hal ini justru sangat menyulitkan mereka sehingga perlu menyesuaikan dengan waktu dan kecepatan berfikir. Namun hal tersebut bukan menjadi masalah lagi, karena saat ini ada X8 Speeder yang bisa digunakan untuk  menyesuaikan kecepatan yang kamu miliki dengan speed yang ada di High Domino.
 
 Bukan hanya membantu mempercepat tetapi bisa juga membantu memenangkan game tersebut. Hal ini karena kecepatan normal di High Domino bisa disesuaikan sehingga kamu bisa lebih mudah dalam berpikir.
+
 ********
 Mengenal X8 Speeder
 ********
+
 X8 Speeder merupakan aplikasi tambahan yang bisa digunakan saat kamu bermain game High Domino Island. Fungsi aplikasi ini adalah untuk speed hack saat kamu bermain game tersebut. 
 
 Dengan aplikasi ini, pengguna bisa mengatur sendiri kecepatan game dan disesuaikan dengan kemampuan sendiri. Pengguna juga bisa mempercepat atau memperlambat game hingga 100 kali dari speed normal. 
@@ -19,9 +21,11 @@ Dengan aplikasi ini, pengguna bisa mengatur sendiri kecepatan game dan disesuaik
 Untuk speed yang disarankan hanya sekitar 50 kali saja agar game tidak sering error atau crash. X8 Speeder terbilang aplikasi user friendly, dimana untuk menambah kecepatan kamu cukup tekan plus dan untuk memperlambat tekan tombol minus. 
 
 Menariknya lagi, pada versi terbaru dari aplikasi ini tidak hanya bisa digunakan untuk High Domino tetapi beberapa game online. 
+
 ********
 Cara Download dan Instal X8 Speeder 
 ********
+
 Setelah memahami tentang fitur-fitur di aplikasi, kamu bisa mulai mengunduh X8 Speeder pada smartphone. Namun dalam proses ini, kamu tidak bisa mendapatkan game tersebut di Google Play atau App Store.
 
 Jadi kamu perlu mencari link download yang terpercaya agar aplikasi ini tidak mengandung virus. Bagi kamu yang kesulitan tidak perlu khawatir karena pada bagian ini kamu bisa mengunduh dari situs yang terpercaya. 
@@ -48,18 +52,8 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-
-   style-guide
-   gameguardian/index
-
-
-******************
-Indices and tables
-******************
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   
+   contribute/index
 
 
 **********
